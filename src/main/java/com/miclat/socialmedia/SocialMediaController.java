@@ -9,7 +9,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/miclat")
-@CrossOrigin(origins = "https://final-api-fpop.onrender.com")
+@CrossOrigin(origins = "https://final-ui-ozfg.onrender.com")
 public class SocialMediaController {
 
     @Autowired
